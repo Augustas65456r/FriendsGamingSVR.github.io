@@ -1,0 +1,15 @@
+body {
+        color: #3498db;
+        font-family: 'Arial', sans-serif;
+        font-size: 2em;
+        font-weight: bold;
+    }
+    p {
+        color: #333;
+        font-size: 1.1em;
+        font-family: 'Verdana', sans-serif;
+    }
+    a {
+        color: #e74c3c;
+        text-decoration: underline;
+    }
